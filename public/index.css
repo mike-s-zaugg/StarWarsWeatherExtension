@@ -1,6 +1,11 @@
-
+@font-face {
+  font-family: 'SF Distant Galaxy';
+  src: url('../assets/sf_distant_galaxy/SF Distant Galaxy.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 * {
-    font-family: "Open Sans", sans-serif;
+    font-family: 'SF Distant Galaxy', sans-serif;
     color: #fff;
     margin: 0;
     padding: 0; 
